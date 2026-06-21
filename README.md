@@ -7,6 +7,15 @@
 ![SQLite](https://img.shields.io/badge/SQLite-3-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 
+## 🔴 Live Demo
+
+### **[→ https://farhanturu.github.io/absensi-demo/](https://farhanturu.github.io/absensi-demo/)**
+
+| Role | Email | Password |
+|------|-------|----------|
+| Admin | admin@company.com | admin123 |
+| User | budi@company.com | password123 |
+
 ## Features
 
 - **Authentication** — Login/Register with JWT
@@ -18,14 +27,7 @@
 - **Karyawan** — Employee management (admin)
 - **Export CSV** — Download attendance data
 
-## Demo
-
-```
-Admin:  admin@company.com / admin123
-User:   budi@company.com / password123
-```
-
-## Quick Start
+## Quick Start (Full Version with Backend)
 
 ```bash
 git clone https://github.com/farhanturu/absensi-karyawan.git
